@@ -51,35 +51,35 @@ This project offers a comprehensive overview of these platforms to enhance the f
 <table>
   <tr>
     <td align="center">
-      <img src="analysisScreens/TotalNumberOfResturants.png" alt="Total Number of Restaurants" width="400">
+      <img src="AnalysisScreens/TotalNumberOfResturants.png" alt="Total Number of Restaurants" width="400">
     </td>
     <td align="center">
-      <img src="analysisScreens/ResturantsDistributionThrowTheApp.jpg" alt="Geographical Coverage" width="400">
+      <img src="AnalysisScreens/ResturantsDistributionThrowTheApp.jpg" alt="Geographical Coverage" width="400">
         <b>Geographical Coverage</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="analysisScreens/Halal.jpg" alt="Distribution of Halal Restaurants" width="400">
+      <img src="AnalysisScreens/Halal.jpg" alt="Distribution of Halal Restaurants" width="400">
         <b>Halal Restaurants Distribution</b>
     </td>
     <td align="center">
-      <img src="analysisScreens/Rating_Deliveroo_TakeAway.jpg" alt="Deliveroo vs. TakeAway" width="400">
+      <img src="AnalysisScreens/Rating_Deliveroo_TakeAway.jpg" alt="Deliveroo vs. TakeAway" width="400">
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="analysisScreens/Low%20Price%20Buckets.jpg" alt="Low Price Buckets" width="400">
+      <img src="AnalysisScreens/Low%20Price%20Buckets.jpg" alt="Low Price Buckets" width="400">
         <b>Low Price Buckets</b>
     </td>
     <td align="center">
-      <img src="analysisScreens/High%20price%20buckets.jpg" alt="High Price Buckets" width="400">
+      <img src="AnalysisScreens/High%20price%20buckets.jpg" alt="High Price Buckets" width="400">
         <b>High Price Buckets</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="analysisScreens/Premium%20Price%20Bucket.jpg" alt="Premium Price Buckets" width="400">
+      <img src="AnalysisScreens/Premium%20Price%20Bucket.jpg" alt="Premium Price Buckets" width="400">
         <b>Premium Price Buckets</b>
     </td>
   </tr>
